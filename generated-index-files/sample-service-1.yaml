@@ -9,7 +9,7 @@ metadata:
     github.com/project-slug: RoadieHQ/monorepo-sample-service
 spec:
   type: service
-  owner: unknown
+  owner: group:roadiehq/engineering
   lifecycle: experimental
 ---
 apiVersion: backstage.io/v1alpha1
